@@ -1,0 +1,8 @@
+Students
+  id
+  name
+  school
+
+Subject
+  id
+
